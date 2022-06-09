@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Github](https://img.shields.io/github/followers/RicSegundo?label=Followers&logo=Github)](https://github.com/RicSegundo) [![Github](https://visitor-badge.laobi.icu/badge?page_id=RicSegundo.RicSegundo)](https://github.com/RicSegundo)
+[![Github](https://img.shields.io/github/followers/oliverangelil?label=Followers&logo=Github)](https://github.com/oliverangelil) [![Github](https://visitor-badge.laobi.icu/badge?page_id=oliverangelil.oliverangelil)](https://github.com/oliverangelil)
 
 <!--
 **oliverangelil/oliverangelil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
