@@ -13,9 +13,9 @@
   - 🚴 Cycling
 
 #### 📫 More about me:
-https://img.icons8.com/ios-filled/50/undefined/domain.png
-
 [<img src="https://img.icons8.com/plasticine/100/undefined/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/oliverangelil/)  &nbsp; 
+
+
 [<img src="https://img.icons8.com/ios-filled/50/undefined/domain.png" width="3.5%"/>](https://oliverangelil.github.io/)  &nbsp; 
  
 
