@@ -12,7 +12,8 @@
   - :books: Reading     
   - :bicyclist: Cycling
 
-  
+#### 📫 More about me:
+
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/oliverangelil/)  &nbsp; 
 [<img src="https://img.icons8.com/fluent/48/000000/web-new.png" width="3.5%"/>](https://oliverangelil.github.io/)  &nbsp; 
   
