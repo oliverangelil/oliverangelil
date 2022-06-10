@@ -19,7 +19,8 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; 
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp;
 
-<img src="https://img.icons8.com/office/16/undefined/globe.png"/>
+<img src="https://img.icons8.com/office/40/undefined/globe.png"/>
+
 
 
 
