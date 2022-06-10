@@ -18,13 +18,22 @@
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/oliverangelil/)  &nbsp; 
 [<img src="https://img.icons8.com/fluent/48/000000/web-new.png" width="3.5%"/>](https://oliverangelil.github.io/)  &nbsp; 
   
- " src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-
   
-  [![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
+  [![Stats](https://github-readme-stats.vercel.app/api?username=oliverangelil&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=oliverangelil&show_icons=true&theme=radical)
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=oliverangelil&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=oliverangelil&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   
 
+## :trophy: My Github Stats:
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=oliverangelil&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=oliverangelil&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverangelil&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverangelil&hide=php&theme=tokyonight" />
+</a>
+</div>
   
 <!--
 **oliverangelil/oliverangelil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
