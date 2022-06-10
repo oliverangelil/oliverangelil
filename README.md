@@ -15,8 +15,7 @@
 #### 📫 More about me:
 [<img src="https://img.icons8.com/plasticine/100/undefined/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/oliverangelil/)  &nbsp; 
 [<img src="https://img.icons8.com/ios-filled/48/undefined/domain--v1.png" width="3.5%"/>](https://oliverangelil.github.io/)  &nbsp; 
- 
-<img src="https://img.icons8.com/color/48/undefined/domain--v1.png"/>
+
 
 ## :trophy: My Github Stats:
 
