@@ -8,7 +8,11 @@
   
   - 🔭 I’m currently working as a Data Scientist in Zurich, Switzerland
   - 🌱 
-    
+- I am passionate about:
+  - :desktop_computer: Data
+  - :keyboard: Programming
+  - :books: Reading     
+
   #### 📫 How to reach me:
   
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/oliverangelil/)  &nbsp; 
