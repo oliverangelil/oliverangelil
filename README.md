@@ -2,12 +2,13 @@
 [![Github](https://img.shields.io/github/followers/oliverangelil?label=Followers&logo=Github)](https://github.com/oliverangelil) [![Github](https://visitor-badge.laobi.icu/badge?page_id=oliverangelil.oliverangelil)](https://github.com/oliverangelil)
   
   - 🔭 I’m a Data Scientist and Co-founder of [Ishango.ai](https://ishango.ai/) 
-  - 🏔️ I live in Zurich, Switzerland
+  - 🏔️ I live in Zurich
  
 - I am passionate about:
+  - 📓 Teaching
   - 💻 Programming
   - 🤖 Statistics / ML
-  - 📖 Reading  
+  - 📖 Reading
   - 🍜 Cooking
   - 🚴 Cycling
   - 🐕 Dogs
