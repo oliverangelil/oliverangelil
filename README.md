@@ -4,19 +4,20 @@
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
   - 🔭 I’m a Data Scientist and Co-founder of [Ishango.ai](https://ishango.ai/) 
-  - 🌄 I live in Zurich, Switzerland
+  - 🏔️ I live in Zurich, Switzerland
  
 - I am passionate about:
-  - :desktop_computer: Data
-  - :keyboard: Programming
-  - :books: Reading     
-  - :bicyclist: Cycling
+  - 💻 Programming
+  - 📖 Reading  
+  - 🍜 Cooking
+  - 🚴 Cycling
 
 #### 📫 More about me:
+https://img.icons8.com/ios-filled/50/undefined/domain.png
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/oliverangelil/)  &nbsp; 
-[<img src="https://img.icons8.com/fluent/48/000000/web-new.png" width="3.5%"/>](https://oliverangelil.github.io/)  &nbsp; 
-  
+[<img src="https://img.icons8.com/plasticine/100/undefined/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/oliverangelil/)  &nbsp; 
+[<img src="https://img.icons8.com/ios-filled/50/undefined/domain.png" width="3.5%"/>](https://oliverangelil.github.io/)  &nbsp; 
+ 
 
 ## :trophy: My Github Stats:
 
