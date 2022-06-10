@@ -16,6 +16,8 @@
 [<img src="https://img.icons8.com/plasticine/100/undefined/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/oliverangelil/)  &nbsp; 
 [<img src="https://img.icons8.com/ios-filled/48/undefined/domain--v1.png" width="3.5%"/>](https://oliverangelil.github.io/)  &nbsp; 
 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp;
+
 
 ## :trophy: My Github Stats:
 
