@@ -11,7 +11,8 @@
     
   #### 📫 How to reach me:
   
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/oliverangelil/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/web-new.png" width="3.5%"/>](https://oliverangelil.github.io/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya_sciencepal/)  &nbsp; <a 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/oliverangelil/)  &nbsp; 
+[<img src="https://img.icons8.com/fluent/48/000000/web-new.png" width="3.5%"/>](https://oliverangelil.github.io/)  &nbsp; 
   
   #### 👨🏻‍💻 Languages and Tools <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
