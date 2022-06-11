@@ -15,9 +15,7 @@
 
 
 #### More about me:
-[<img src="https://img.icons8.com/plasticine/100/undefined/linkedin.png" width="4.5%"/>](https://www.linkedin.com/in/oliver-angelil/)  &nbsp; [<img src="https://img.icons8.com/office/80/undefined/globe.png" width="4.5%"/>](https://oliverangelil.github.io/)  &nbsp; [<img src="https://img.icons8.com/color/48/undefined/google-scholar--v3.png" width="4.5%"/>](https://scholar.google.com/citations?hl=en&user=tr0l5wgAAAAJ)  &nbsp;
-
-
+[<img src="https://img.icons8.com/plasticine/100/undefined/linkedin.png" width="4.5%"/>](https://www.linkedin.com/in/oliver-angelil/)  &nbsp; [<img src="https://img.icons8.com/office/80/undefined/globe.png" width="4.5%"/>](https://oliverangelil.github.io/)  &nbsp; [<img src="https://img.icons8.com/color/48/undefined/google-scholar--v3.png" width="4.5%"/>](https://scholar.google.com/citations?user=PtJstUIAAAAJ&hl=en&authuser=2)  &nbsp;
 <br>
 
 ## 🏆 My Github Stats:
