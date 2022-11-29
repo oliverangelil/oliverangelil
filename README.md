@@ -18,13 +18,16 @@
 [<img src="https://img.icons8.com/plasticine/100/undefined/linkedin.png" width="4.5%"/>](https://www.linkedin.com/in/oliver-angelil/)  &nbsp; [<img src="https://img.icons8.com/office/80/undefined/globe.png" width="4.5%"/>](https://oliverangelil.github.io/)  &nbsp; [<img src="https://img.icons8.com/color/48/undefined/google-scholar--v3.png" width="4.5%"/>](https://scholar.google.com/citations?user=PtJstUIAAAAJ&hl=en&authuser=2)  &nbsp;
 <br>
 
+
 ## 🏆 My Github Stats:
 
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=oliverangelil&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=oliverangelil&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverangelil&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverangelil&hide=php,jupyter%20notebook&theme=tokyonight" />
-</a>
-</div>
+<table class="center" style="width:100%;">
+  <tr>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oliverangelil&show_icons=true&count_private=true&include_all_commits=true&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false&hide_border=true" />
+    </td>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverangelil&&hide=php,jupyter%20notebook&langs_count=11&&layout=compact&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false&hide_border=true" />
+</td>
+  </tr>
+</table>
